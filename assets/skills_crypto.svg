@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="242" viewBox="0 0 260 242">
+<defs>
+  <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" style="stop-color:#161b22;stop-opacity:1"/>
+    <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1"/>
+  </linearGradient>
+  <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+    <feGaussianBlur stdDeviation="2" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+
+<!-- Card background -->
+<rect x="1" y="1" width="258" height="240" rx="12" fill="url(#cardBg)" stroke="#21262d" stroke-width="1"/>
+
+<!-- Top accent line -->
+<rect x="1" y="1" width="258" height="3" rx="12" fill="#10b981" opacity="0.6"/>
+
+<!-- Title -->
+<text x="16" y="35" font-family="'Segoe UI', sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">
+  📈  Crypto &amp; Trading
+</text>
+
+<!-- Divider -->
+<line x1="16" y1="50" x2="244" y2="50" stroke="#21262d" stroke-width="0.5"/>
+
+<!-- Trading Bots -->
+<text x="16" y="74" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">Trading Bots</text>
+<rect x="96" y="64" width="148" height="8" rx="4" fill="#21262d" opacity="0.5"/>
+<rect x="96" y="64" width="126" height="8" rx="4" fill="#10b981" opacity="0.8"/>
+
+<!-- Technical Analysis -->
+<text x="16" y="106" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">Technical Analysis</text>
+<rect x="96" y="96" width="148" height="8" rx="4" fill="#21262d" opacity="0.5"/>
+<rect x="96" y="96" width="118" height="8" rx="4" fill="#00d4ff" opacity="0.8"/>
+
+<!-- Binance API -->
+<text x="16" y="138" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">Binance API</text>
+<rect x="96" y="128" width="148" height="8" rx="4" fill="#21262d" opacity="0.5"/>
+<rect x="96" y="128" width="126" height="8" rx="4" fill="#f59e0b" opacity="0.8"/>
+
+<!-- ICT/SMC -->
+<text x="16" y="170" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">ICT/SMC</text>
+<rect x="96" y="160" width="148" height="8" rx="4" fill="#21262d" opacity="0.5"/>
+<rect x="96" y="160" width="111" height="8" rx="4" fill="#7c3aed" opacity="0.8"/>
+
+<!-- Data Viz -->
+<text x="16" y="202" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">Data Viz</text>
+<rect x="96" y="192" width="148" height="8" rx="4" fill="#21262d" opacity="0.5"/>
+<rect x="96" y="192" width="104" height="8" rx="4" fill="#f43f5e" opacity="0.8"/>
+</svg>
