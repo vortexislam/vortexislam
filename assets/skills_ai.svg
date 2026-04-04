@@ -24,8 +24,8 @@
 <rect x="118" y="64" width="120" height="8" rx="4" fill="#7c3aed" opacity="0.8"/>
 
 <text x="16" y="106" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">Claude/Anthropic</text>
-<rect x="118" y="96" width="126" height="8" rx="4" fill="#21262d" opacity="0.5"/>
-<rect x="118" y="96" width="113" height="8" rx="4" fill="#00d4ff" opacity="0.8"/>
+<rect x="152" y="96" width="92" height="8" rx="4" fill="#21262d" opacity="0.5"/>
+<rect x="152" y="96" width="87" height="8" rx="4" fill="#00d4ff" opacity="0.8"/>
 
 <text x="16" y="138" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">RAG Systems</text>
 <rect x="118" y="128" width="126" height="8" rx="4" fill="#21262d" opacity="0.5"/>
