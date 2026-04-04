@@ -13,33 +13,39 @@
 <rect x="1" y="1" width="258" height="240" rx="12" fill="url(#cardBg)" stroke="#21262d" stroke-width="1"/>
 <rect x="1" y="1" width="258" height="3" rx="12" fill="#00d4ff" opacity="0.6"/>
 
-<text x="16" y="32" font-family="'Segoe UI', sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">
+<text x="16" y="35" font-family="'Segoe UI', sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">
   &#x26A1;  Languages &#x26; Core
 </text>
 
-<line x1="16" y1="44" x2="244" y2="44" stroke="#21262d" stroke-width="0.5"/>
+<line x1="16" y1="50" x2="244" y2="50" stroke="#21262d" stroke-width="0.5"/>
 
-<text x="16" y="65" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">Python</text>
-<rect x="118" y="57" width="126" height="7" rx="3" fill="#21262d" opacity="0.5"/>
-<rect x="118" y="57" width="120" height="7" rx="3" fill="#00d4ff" opacity="0.8"/>
+<!-- Row 1: Python  y_text=68, bar_y=60 -->
+<text x="16" y="68" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">Python</text>
+<rect x="118" y="60" width="126" height="8" rx="4" fill="#21262d" opacity="0.5"/>
+<rect x="118" y="60" width="120" height="8" rx="4" fill="#00d4ff" opacity="0.8"/>
 
+<!-- Row 2: JavaScript  y_text=95, bar_y=87 -->
 <text x="16" y="95" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">JavaScript</text>
-<rect x="118" y="87" width="126" height="7" rx="3" fill="#21262d" opacity="0.5"/>
-<rect x="118" y="87" width="101" height="7" rx="3" fill="#f59e0b" opacity="0.8"/>
+<rect x="118" y="87" width="126" height="8" rx="4" fill="#21262d" opacity="0.5"/>
+<rect x="118" y="87" width="101" height="8" rx="4" fill="#f59e0b" opacity="0.8"/>
 
-<text x="16" y="125" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">Dart/Flutter</text>
-<rect x="118" y="117" width="126" height="7" rx="3" fill="#21262d" opacity="0.5"/>
-<rect x="118" y="117" width="94" height="7" rx="3" fill="#7c3aed" opacity="0.8"/>
+<!-- Row 3: Dart/Flutter  y_text=122, bar_y=114 -->
+<text x="16" y="122" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">Dart/Flutter</text>
+<rect x="118" y="114" width="126" height="8" rx="4" fill="#21262d" opacity="0.5"/>
+<rect x="118" y="114" width="94" height="8" rx="4" fill="#7c3aed" opacity="0.8"/>
 
-<text x="16" y="155" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">Bash/Shell</text>
-<rect x="118" y="147" width="126" height="7" rx="3" fill="#21262d" opacity="0.5"/>
-<rect x="118" y="147" width="107" height="7" rx="3" fill="#10b981" opacity="0.8"/>
+<!-- Row 4: Bash/Shell  y_text=149, bar_y=141 -->
+<text x="16" y="149" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">Bash/Shell</text>
+<rect x="118" y="141" width="126" height="8" rx="4" fill="#21262d" opacity="0.5"/>
+<rect x="118" y="141" width="107" height="8" rx="4" fill="#10b981" opacity="0.8"/>
 
-<text x="16" y="185" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">TypeScript</text>
-<rect x="118" y="177" width="126" height="7" rx="3" fill="#21262d" opacity="0.5"/>
-<rect x="118" y="177" width="76" height="7" rx="3" fill="#f43f5e" opacity="0.8"/>
+<!-- Row 5: TypeScript  y_text=176, bar_y=168 -->
+<text x="16" y="176" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">TypeScript</text>
+<rect x="118" y="168" width="126" height="8" rx="4" fill="#21262d" opacity="0.5"/>
+<rect x="118" y="168" width="76" height="8" rx="4" fill="#f43f5e" opacity="0.8"/>
 
-<text x="16" y="215" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">HTML/CSS</text>
-<rect x="118" y="207" width="126" height="7" rx="3" fill="#21262d" opacity="0.5"/>
-<rect x="118" y="207" width="113" height="7" rx="3" fill="#e34c26" opacity="0.8"/>
+<!-- Row 6: HTML/CSS  y_text=203, bar_y=195 -->
+<text x="16" y="203" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">HTML/CSS</text>
+<rect x="118" y="195" width="126" height="8" rx="4" fill="#21262d" opacity="0.5"/>
+<rect x="118" y="195" width="113" height="8" rx="4" fill="#e34c26" opacity="0.8"/>
 </svg>
