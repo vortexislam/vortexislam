@@ -8,8 +8,6 @@
 
   <br/>
   
-  ![Visitors](https://komarev.com/ghpvc/?username=vortexislam&label=Visitors&color=00d4ff&style=flat-square)
-  &nbsp;
   [![Portfolio](https://img.shields.io/badge/Portfolio-vortexislam.com-7c3aed?style=flat-square&logo=safari&logoColor=white)](https://vortexislam.com)
   &nbsp;
   [![GitHub](https://img.shields.io/badge/Site-vortexislam.github.io-10b981?style=flat-square&logo=github&logoColor=white)](https://vortexislam.github.io)
