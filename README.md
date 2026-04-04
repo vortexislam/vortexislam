@@ -20,65 +20,9 @@
 
 ## `$ cat about_me.md`
 
-```python
-#!/usr/bin/env python3
-"""
-    Not your typical 'Hello World' intro.
-    This is the story of someone who chose to build
-    while the world was still learning to prompt.
-"""
-
-class IslamMustafa:
-    """Systems Architect. AI Engineer. Builder of things that work at 3 AM."""
-
-    def __init__(self):
-        self.name     = "Islam Mustafa"
-        self.location  = "Egypt 🇪🇬"
-        self.role      = "Systems Architect & AI Engineer"
-        self.motto     = "Automate everything. Question everything. Ship daily."
-
-    def origin_story(self) -> str:
-        """
-        It started with a simple question:
-        'What if I could build a system that works while I sleep?'
-
-        That curiosity led me to Python, then to building automation
-        pipelines, then to orchestrating entire AI agent systems.
-
-        I discovered that the real power isn't in writing code —
-        it's in designing systems where multiple AI models collaborate,
-        where data flows through intelligent pipelines, and where
-        complex problems dissolve into elegant, automated solutions.
-
-        From RAG systems that understand Arabic documents, to multi-agent
-        architectures that make decisions autonomously — I build the
-        infrastructure that makes AI actually useful in production.
-        """
-        return "Still building. Still learning. Still shipping."
-
-    def what_i_actually_do(self) -> dict:
-        return {
-            "🤖 AI Systems":    "Multi-agent pipelines with Claude, RAG, and vector search",
-            "⚡ Automation":    "n8n workflows that replace entire teams",
-            "🏗️ SaaS":         "Full-stack platforms from idea to production",
-            "📱 Mobile":        "Cross-platform apps with Flutter",
-            "🔬 R&D":          "Arabic NLP, document intelligence, AI integration",
-        }
-
-    def the_value(self) -> str:
-        """
-        I don't just write code — I build systems that make
-        other systems smarter. My clients don't hire a developer;
-        they hire an architect who sees the full picture:
-        from the API call to the business outcome.
-        """
-        return "Complexity in. Simplicity out."
-
-
-me = IslamMustafa()
-print(me.origin_story())
-# >>> Still building. Still learning. Still shipping.
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vortexislam/vortexislam/main/assets/about_card.svg" width="100%" alt="About Islam Mustafa"/>
+</div>
 
 ---
 
