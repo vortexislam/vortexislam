@@ -11,31 +11,31 @@
 </defs>
 
 <rect x="1" y="1" width="258" height="240" rx="12" fill="url(#cardBg)" stroke="#21262d" stroke-width="1"/>
-<rect x="1" y="1" width="258" height="3" rx="12" fill="#f59e0b" opacity="0.6"/>
+<rect x="1" y="1" width="258" height="3" rx="12" fill="#10b981" opacity="0.6"/>
 
 <text x="16" y="35" font-family="'Segoe UI', sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">
-  &#x1F527;  Automation &#x26; Infra
+  &#x1F4F1;  Mobile &#x26; Frontend
 </text>
 
 <line x1="16" y1="50" x2="244" y2="50" stroke="#21262d" stroke-width="0.5"/>
 
-<text x="16" y="74" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">n8n Workflows</text>
+<text x="16" y="74" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">Flutter</text>
 <rect x="118" y="64" width="126" height="8" rx="4" fill="#21262d" opacity="0.5"/>
-<rect x="118" y="64" width="120" height="8" rx="4" fill="#f59e0b" opacity="0.8"/>
+<rect x="118" y="64" width="94" height="8" rx="4" fill="#00d4ff" opacity="0.8"/>
 
-<text x="16" y="106" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">Docker</text>
+<text x="16" y="106" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">React</text>
 <rect x="118" y="96" width="126" height="8" rx="4" fill="#21262d" opacity="0.5"/>
-<rect x="118" y="96" width="113" height="8" rx="4" fill="#00d4ff" opacity="0.8"/>
+<rect x="118" y="96" width="88" height="8" rx="4" fill="#7c3aed" opacity="0.8"/>
 
-<text x="16" y="138" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">API Integration</text>
+<text x="16" y="138" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">HTML/CSS</text>
 <rect x="118" y="128" width="126" height="8" rx="4" fill="#21262d" opacity="0.5"/>
-<rect x="118" y="128" width="113" height="8" rx="4" fill="#10b981" opacity="0.8"/>
+<rect x="118" y="128" width="107" height="8" rx="4" fill="#f59e0b" opacity="0.8"/>
 
-<text x="16" y="170" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">Linux/VPS</text>
+<text x="16" y="170" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">Tailwind CSS</text>
 <rect x="118" y="160" width="126" height="8" rx="4" fill="#21262d" opacity="0.5"/>
-<rect x="118" y="160" width="107" height="8" rx="4" fill="#7c3aed" opacity="0.8"/>
+<rect x="118" y="160" width="94" height="8" rx="4" fill="#10b981" opacity="0.8"/>
 
-<text x="16" y="202" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">Webhooks</text>
+<text x="16" y="202" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">REST APIs</text>
 <rect x="118" y="192" width="126" height="8" rx="4" fill="#21262d" opacity="0.5"/>
-<rect x="118" y="192" width="107" height="8" rx="4" fill="#f43f5e" opacity="0.8"/>
+<rect x="118" y="192" width="113" height="8" rx="4" fill="#f43f5e" opacity="0.8"/>
 </svg>

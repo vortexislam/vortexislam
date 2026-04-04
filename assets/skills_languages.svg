@@ -10,42 +10,32 @@
   </filter>
 </defs>
 
-<!-- Card background -->
 <rect x="1" y="1" width="258" height="240" rx="12" fill="url(#cardBg)" stroke="#21262d" stroke-width="1"/>
-
-<!-- Top accent line -->
 <rect x="1" y="1" width="258" height="3" rx="12" fill="#00d4ff" opacity="0.6"/>
 
-<!-- Title -->
 <text x="16" y="35" font-family="'Segoe UI', sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">
-  ⚡  Languages &amp; Core
+  &#x26A1;  Languages &#x26; Core
 </text>
 
-<!-- Divider -->
 <line x1="16" y1="50" x2="244" y2="50" stroke="#21262d" stroke-width="0.5"/>
 
-<!-- Python -->
 <text x="16" y="74" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">Python</text>
-<rect x="96" y="64" width="148" height="8" rx="4" fill="#21262d" opacity="0.5"/>
-<rect x="96" y="64" width="141" height="8" rx="4" fill="#00d4ff" opacity="0.8"/>
+<rect x="118" y="64" width="126" height="8" rx="4" fill="#21262d" opacity="0.5"/>
+<rect x="118" y="64" width="120" height="8" rx="4" fill="#00d4ff" opacity="0.8"/>
 
-<!-- JavaScript -->
 <text x="16" y="106" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">JavaScript</text>
-<rect x="96" y="96" width="148" height="8" rx="4" fill="#21262d" opacity="0.5"/>
-<rect x="96" y="96" width="118" height="8" rx="4" fill="#f59e0b" opacity="0.8"/>
+<rect x="118" y="96" width="126" height="8" rx="4" fill="#21262d" opacity="0.5"/>
+<rect x="118" y="96" width="101" height="8" rx="4" fill="#f59e0b" opacity="0.8"/>
 
-<!-- Bash/Shell -->
-<text x="16" y="138" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">Bash/Shell</text>
-<rect x="96" y="128" width="148" height="8" rx="4" fill="#21262d" opacity="0.5"/>
-<rect x="96" y="128" width="126" height="8" rx="4" fill="#10b981" opacity="0.8"/>
+<text x="16" y="138" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">Dart/Flutter</text>
+<rect x="118" y="128" width="126" height="8" rx="4" fill="#21262d" opacity="0.5"/>
+<rect x="118" y="128" width="94" height="8" rx="4" fill="#7c3aed" opacity="0.8"/>
 
-<!-- TypeScript -->
-<text x="16" y="170" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">TypeScript</text>
-<rect x="96" y="160" width="148" height="8" rx="4" fill="#21262d" opacity="0.5"/>
-<rect x="96" y="160" width="89" height="8" rx="4" fill="#7c3aed" opacity="0.8"/>
+<text x="16" y="170" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">Bash/Shell</text>
+<rect x="118" y="160" width="126" height="8" rx="4" fill="#21262d" opacity="0.5"/>
+<rect x="118" y="160" width="107" height="8" rx="4" fill="#10b981" opacity="0.8"/>
 
-<!-- SQL -->
-<text x="16" y="202" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">SQL</text>
-<rect x="96" y="192" width="148" height="8" rx="4" fill="#21262d" opacity="0.5"/>
-<rect x="96" y="192" width="104" height="8" rx="4" fill="#f43f5e" opacity="0.8"/>
+<text x="16" y="202" font-family="'Fira Code', monospace" font-size="11" fill="#8b949e">TypeScript</text>
+<rect x="118" y="192" width="126" height="8" rx="4" fill="#21262d" opacity="0.5"/>
+<rect x="118" y="192" width="76" height="8" rx="4" fill="#f43f5e" opacity="0.8"/>
 </svg>
