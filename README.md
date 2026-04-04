@@ -147,6 +147,14 @@ print(me.origin_story())
 ---
 
 <div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=vortexislam&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=27,30,35&height=2&section=footer" width="100%"/>
   <br/>
   <sub>
