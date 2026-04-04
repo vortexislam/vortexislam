@@ -12,6 +12,14 @@
   &nbsp;
   [![GitHub](https://img.shields.io/badge/Site-vortexislam.github.io-10b981?style=flat-square&logo=github&logoColor=white)](https://vortexislam.github.io)
 
+  <br/>
+
+  ![GitHub followers](https://img.shields.io/github/followers/vortexislam?label=Followers&style=flat-square&color=00d4ff&logo=github&logoColor=white)
+  &nbsp;
+  ![GitHub stars](https://img.shields.io/github/stars/vortexislam?label=Total%20Stars&style=flat-square&color=f59e0b&logo=github&logoColor=white)
+  &nbsp;
+  ![Profile views](https://komarev.com/ghpvc/?username=vortexislam&label=Profile%20Views&color=7c3aed&style=flat-square)
+
 </div>
 
 ---
@@ -70,6 +78,15 @@
       </td>
     </tr>
   </table>
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vortexislam&show_icons=true&theme=dark&bg_color=0a0e17&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vortexislam&theme=dark&background=0a0e17&ring=00d4ff&fire=f59e0b&currStreakLabel=00d4ff&border=30363d" width="49%" alt="GitHub Streak"/>
 </div>
 
 ---
